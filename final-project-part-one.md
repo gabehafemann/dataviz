@@ -8,16 +8,18 @@
  
 I'm interested in telling the story of how I became a transit person, and how other people can too once they realize what factors are driving their own decisionmaking.
 
-The overall plan is to 
+The overall plan is to start with a couple of maps, first one of Wisconsin which, upon scrolling, transitions into one of my hometown, and then to the public transit route that let me go from my house to the comic book shop and the library as a kid, then to the YMCA as a teen. Then, I plan on adding in a map of San Francisco's public transit system in my sister's neighborhood as I talk about how I learned that there's more to transit than my previous exposure.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+From there, I'd like to unfurl the question of oboservations I made as a young person on public transit in both of these very different places -- that there was a wider cross-section of people on transit in San Francisco, and that people were riidng for a variety of reasons. I'm going to pull information from the Rural Transit Report from NDSU and compare it to APTA's transit data about ridership in major metropolitan areas using a diverging bar chart.
 
-Text here...
+Next, I plan on exploring how transit has differed in utility, anecdotally, in cities I've subsequently lived in: Oakland, CA; Minneapolis, MN (which has a robust public transit reporting page); Boston; Washington, DC; and now Pittsburgh. There's APTA and FTA Data available for Minneapolis, Boston, the SF Bay Area, and DC which I'd like to break out for each city: ridership overall, and ratings of their systems.
+
+I aim to empower people to understand the factors that affect why transit is different from place to place, strung together by the anecdote of my having lived there and the common themes of infrastructure, convenience, speed, cost, and car ownership.
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -36,7 +38,7 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-I plan on making an ESRI story map because I think they flow nicely and allow for a wide variety of styles to be incorporated. 
+I plan on making an ESRI story map because I think they flow nicely and allow for a wide variety of styles to be incorporated. I liked the way Melida's was framed out as a good opportunity to very naturally intersperse personal elements with quantitative data visualization.
 
 ## References
 _List any references you used here._
@@ -56,4 +58,4 @@ a.	https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-12/2023%20National%2
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+There was no AI use in the production of this assignment.
