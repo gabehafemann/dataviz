@@ -20,6 +20,11 @@ I aim to empower people to understand the factors that affect why transit is dif
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
+![20250204_164827](https://github.com/user-attachments/assets/c3876a3d-589a-4b04-b632-67fc6471ae73)
+![20250204_165505](https://github.com/user-attachments/assets/ff3f8cac-ed97-4fb9-88f2-65ee82e3f9a2)
+![20250204_165505](https://github.com/user-attachments/assets/94b67fca-2b3e-4838-bc37-d882ecc4b5f7)
+
+Then, I want to add transit maps with buffer zones for each of my past neighborhoods.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
