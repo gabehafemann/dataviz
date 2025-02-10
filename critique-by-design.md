@@ -25,10 +25,21 @@ Questions to ask (modify these for your own interviews):
 - Can you tell me what you think this is?
 
 - Can you describe to me what this is telling you?
+- text is confusing; then it makes more sense in context
+- Simpler way to sum up what's going on
 
 - Is there anything you find surprising or confusing?
+surprising that the lines never touch
+-include 30% threshold
+-income needed to comfortably afford
+-rent burdened
+-add one more year as a benchmark
+-be more journalistic about the title 'income required to buy a house grossly more than median'
+
 
 - Who do you think is the intended audience for this?
+- homebuyers by 
+
 
 - Is there anything you would change or do differently?
 
@@ -46,6 +57,16 @@ _Don't identify or share personally identifiable information (PII) about the peo
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+General responses:
+
+-include another couple of ways to index the dates on the graph
+-clean up the title and labels such that it's more intelligble period -- leverage subtitles to clarify the 30% threshold rather than putting it in the label
+-maybe include a trendline for the median mortgage payment? might be distracting because the scale is so much lower
+-keep the shading between the income where median mortgage doesn't exceed 30% of income and actual median income, maybe include a parenthetical/bracket or arrow situation
+-change top line label to "income where median mortgage is affordable"
+-"income required to afford median mortgage"
+
 
 ## Step five: build the solution
 
