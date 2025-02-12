@@ -1,15 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critiquing Redfin Data by Redesign
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+For the critique by design project, I chose to look at housing affordability data from Redfin. Before I came back to school, I worked in housing policy and food security advocacy, advocating for things like SNAP funding expansion and the introduction of state- and federal-level Renter Tax Credits. I opted for a dataset I already had a connection to. Specifically, I chose to redesign the mortgage affordability data visualization because it's conveying really staggering information: that people need to be making more than $100,000 annually to reasonably afford the national median mortgage. That's even assuming, either generously or naively, that people can scrape together a 20% down payment despite the skyrocketing costs.
+
+I'm looking at this graph from Redfin 
+[graph, link
+which was assembled using Redfin analysis of this data from the Fed: https://fred.stlouisfed.org/series/MSPUS
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
