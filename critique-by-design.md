@@ -13,29 +13,27 @@ which was assembled using Redfin analysis of this data from the Fed: https://fre
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+Overall, my impression is that the design of the original data visualization is clean and for the most part pretty clear, but misses some opportunities to raelly show the context and what the implications are. I think it kind of does what it intends to do, but could be punchier. 
+
 
 ## Step three: Sketch a solution
 
+With that in mind, I kept the line chart and added more descriptive labels and another line of data (with data from the Fed) for context.
+
+
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+When I talked to my classmates about it (three folks -- a Master of Arts Management student and two Master of Information Systems Management students), they gave some really helpful insights.
 
-Questions to ask (modify these for your own interviews): 
+First, I asked them to tell me what they think is going on in the graph. Unanimously, they articulated that people need to make more money to buy houses.
 
-- Can you tell me what you think this is?
+When I asked what's working, they told me that the text is confusing. It made more sense in context with some discussion, but the header and labelling wasn't illustrative on their own. Plus it's chaotic to look at.
 
-- Can you describe to me what this is telling you?
-- text is confusing; then it makes more sense in context
-- Simpler way to sum up what's going on
+I lucked out that my group was students not in the policy program. One groupmate wondered if I'd made a mistake because the lines never touched, which I think highlights the need for the complementary data points.
 
-- Is there anything you find surprising or confusing?
-surprising that the lines never touch
--include 30% threshold
--income needed to comfortably afford
--rent burdened
--add one more year as a benchmark
--be more journalistic about the title 'income required to buy a house grossly more than median'
+We workshopped things I could say to more succinctly describe the data. Folks suggested I use language like "income needed to comfortably afford" or "reasonably afford" the median mortgage. Someone also suggested i get more journalistic with the title, something like: "income required to buy a house grossly outpacing income."
 
 
 - Who do you think is the intended audience for this?
@@ -45,15 +43,6 @@ surprising that the lines never touch
 - Is there anything you would change or do differently?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
