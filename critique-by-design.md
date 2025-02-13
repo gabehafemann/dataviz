@@ -17,13 +17,14 @@ which was assembled using Redfin analysis of this data from the Fed: https://fre
 
 ## Step two: the critique
 
-Overall, my impression is that the design of the original data visualization is clean and for the most part pretty clear, but misses some opportunities to raelly show the context and what the implications are. I think it kind of does what it intends to do, but could be punchier. 
+Overall, my impression is that the design of the original data visualization is clean and for the most part pretty clear, but misses some opportunities to raelly show the context and what the implications are. I think it kind of does what it intends to do, but could be punchier. The timeline is also ambiguous until you look pretty closely which isn't very helpful.
 
 
 ## Step three: Sketch a solution
 
 With that in mind, I kept the line chart and added more descriptive labels and another line of data (with data from the Fed) for context.
 
+![20250213_003403](https://github.com/user-attachments/assets/f22c8508-0161-4fc1-bf77-3a864994c036)
 
 
 ## Step four: Test the solution
@@ -40,25 +41,26 @@ We workshopped things I could say to more succinctly describe the data. Folks su
 
 
 - Who do you think is the intended audience for this?
-- homebuyers by 
-
-
-- Is there anything you would change or do differently?
+- homebuyers who are trying to assess the landscape
 
 Results: 
+
+- include another couple of ways to index the dates on the graph
+- clean up the title and labels such that it's more intelligble period
+- leverage subtitles to clarify the 30% threshold rather than putting it in the label
+- maybe include a trendline for the median mortgage payment? might be distracting because the scale is so much lower
+- keep the shading between the income where median mortgage doesn't exceed 30% of income and actual median income, maybe include a parenthetical/bracket or arrow situation
+- change top line label to "income where median mortgage is affordable"
+- "income required to afford median mortgage"
+
+
 
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
-General responses:
-
--include another couple of ways to index the dates on the graph
--clean up the title and labels such that it's more intelligble period -- leverage subtitles to clarify the 30% threshold rather than putting it in the label
--maybe include a trendline for the median mortgage payment? might be distracting because the scale is so much lower
--keep the shading between the income where median mortgage doesn't exceed 30% of income and actual median income, maybe include a parenthetical/bracket or arrow situation
--change top line label to "income where median mortgage is affordable"
--"income required to afford median mortgage"
+- I learned from the feedback that my approach was generally effective, but needed some stylistic tweaks and less text to really sing.
+- For the redesign, I think honing the text, adding a subtitle (similar to the original) and giving the lines pithier labels are going to be key. We also talked about retitling it and adding at least one more increment mark on the x-axis. 
 
 
 ## Step five: build the solution
