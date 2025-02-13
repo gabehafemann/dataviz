@@ -8,7 +8,10 @@
 For the critique by design project, I chose to look at housing affordability data from Redfin. Before I came back to school, I worked in housing policy and food security advocacy, advocating for things like SNAP funding expansion and the introduction of state- and federal-level Renter Tax Credits. I opted for a dataset I already had a connection to. Specifically, I chose to redesign the mortgage affordability data visualization because it's conveying really staggering information: that people need to be making more than $100,000 annually to reasonably afford the national median mortgage. That's even assuming, either generously or naively, that people can scrape together a 20% down payment despite the skyrocketing costs.
 
 I'm looking at this graph from Redfin 
-[graph, link
+![image](https://github.com/user-attachments/assets/df81f53b-168e-4839-ae86-15dee1557eec)
+Available from this link: https://www.redfin.com/news/homebuyer-income-afford-home-record-high/
+
+
 which was assembled using Redfin analysis of this data from the Fed: https://fred.stlouisfed.org/series/MSPUS
 
 
