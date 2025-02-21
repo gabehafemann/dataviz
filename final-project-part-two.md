@@ -46,8 +46,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-|  The graphs don't tell a complete story  | I plan on adding in a graph with FHA data I found regarding the increase in car usership for the past seven decades |
-|  regarding how transit is changing separately from cars |                                                    |
+|  The graphs don't tell a complete story regarding how transit is changing separately from cars | I plan on adding in a graph with FHA data I found regarding the increase in car usership for the past seven decades |
+|   |                                                    |
 | Headings on existing graphs are too small, weirdly worded               |   I plan on changing titles/styles to be more narratively effective     |
 |  Cut down on the personal story to make more room for the quant/vizualization     |   I plan on adding another couple of charts regarding prevalence of different kinds of charts over time using RawGraphs. I think the bumpgraph/streamgraph could be a really cool way to visualize that without straying too far from the main beats    |
 |             |                                                                                 |
