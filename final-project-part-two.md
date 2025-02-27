@@ -1,4 +1,4 @@
-| [home page](https://gabehafemann.github.io/dataviz/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | | [GIS Samples](GIS-Samples) |
+| [home page](https://gabehafemann.github.io/dataviz/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [GIS Samples](GIS-Samples) |
 
 # Wireframes / storyboards
 Here's a link to my evolving project on Shorthand: 
