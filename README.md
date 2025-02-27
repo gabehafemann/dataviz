@@ -1,15 +1,17 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://gabehafemann.github.io/dataviz/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  I'll be updating it over the course of the semester with visualizations I develop for my classes about GIS, visual storytelling, and Tableau. I'm excited to be honing these skills! 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University! I'll be updating it over the course of the semester with visualizations I develop for my classes about GIS, visual storytelling, and Tableau. I'm excited to be honing these skills! 
 
 # About me
-Hey y'all, my name's Gabe (they/them). I'm a graduate student at Carnegie Mellon with a passion for making sure people can understand policy. That means telling clear stories about why our systems are the way they are, de-jargonifying social programs, and searching for opportunities to bring people into the processes of decisionmaking at all levels.
+Hey y'all, my name's Gabe (they/them). I'm a graduate student at Carnegie Mellon with a passion for making sure policy makes sense to people. That means telling clear stories about why our systems are the way they are, de-jargonifying social programs, and searching for opportunities to bring people into the processes of decisionmaking at all levels.
 
-In life outside the cloud, I love reading (give me reccs, especially if it's your favorite author from your hometown), movies, getting outside, bicycling, and oogling people's dogs (especially tiny ones, especially in sweaters).
+In life outside the cloud, I love reading (give me reccs, please, especially if it's your favorite author from your hometown), movies, getting outside (I'm training for a thru hike!), bicycling, and oogling people's dogs (especially tiny ones, especially in sweaters).
 
-I'm passionate about urbanism and closing the rural-urban divides, labor policy, public transportation, and our food system. Let's talk!
+I'm passionate about urbanism and closing rural-urban divides, labor policy, conservation, public transportation, and our food system. Let's talk!
+
+
 
 
 # What I hope to learn
@@ -23,39 +25,8 @@ So many things! But to look at some broad strokes:
 
 
 
-
-
-
-
-
-
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-# Intro to Tableau - practice #1
-
-<div class='tableauPlaceholder' id='viz1738006229326' style='position: relative'><noscript><a href='#'><img alt='Population and Birth Rate (All) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldIndicatorsDataVizDemo&#47;Population&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldIndicatorsDataVizDemo&#47;Population' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldIndicatorsDataVizDemo&#47;Population&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1738006229326');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-
-# Intro to Tableau Practice #2
-<div class='tableauPlaceholder' id='viz1738008015445' style='position: relative'><noscript><a href='#'><img alt='Americans&#39; Trust in News Organizations (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Am&#47;Americanstrustofnewsmediaoutlets&#47;barchart2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Americanstrustofnewsmediaoutlets&#47;barchart2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Am&#47;Americanstrustofnewsmediaoutlets&#47;barchart2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1738008015445');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -82,12 +53,6 @@ Part III(final-project-part-three)
 
 ---
 ## Editing Reference Information
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
 ### Creating tables
 
