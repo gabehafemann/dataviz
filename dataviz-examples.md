@@ -30,22 +30,17 @@ This section is full of database visualizations from homework and in-class pract
     <param name="language" value="en-US" />
     <param name="filter" value="publish=yes" />
   </object>
-</div>
-
-<script type="text/javascript">
+</div> <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function () {
     var divElement = document.getElementById("viz1738006229326");
     var vizElement = divElement.getElementsByTagName("object")[0];
-    
     vizElement.style.width = "100%";
     vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-
     var scriptElement = document.createElement("script");
     scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
     scriptElement.onload = function () {
       console.log("Tableau script loaded successfully.");
     };
-
     document.body.appendChild(scriptElement);
   });
 </script>
